@@ -3,7 +3,7 @@ import firebase from 'firebase/app'
 import 'firebase/database'
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyCZHoItZ4wMeFaaAxzU75WduWIsFRC1wJQ",
+  apiKey: "your-api-key",
     authDomain: "recette-app-a7545.firebaseapp.com",
     databaseURL: "https://recette-app-a7545.firebaseio.com"
 })
